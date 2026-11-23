@@ -2,6 +2,8 @@
 
 Priročniki za pripravo na izpit za voditelja čolna in izpit za VHF/GMDSS radijsko postajo.
 
+Več uporabnih virov na: https://splet.4a.si/dir/%C4%8Doln
+
 ## [Priročnik za voditelja čolna](prirocnik_coln.pdf)
 
 - **Pomorski predpisi** – vpis in označba čolna, pregledi, oprema in območja plovbe, oddaljenost od obale in kopališč, vodni skuter, teritorialno morje in meja, prijava na meji, listine, nadzor, prekrški, reševanje
